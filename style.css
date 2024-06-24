@@ -593,7 +593,7 @@ footer {
 /*                    ABOUT PAGE                   */
 
 .excellent-service {
-    background: url("images/excellent-img.jpg") center no-repeat;
+    background: url("./images/excellent-img.JPG") no-repeat;
     background-size: cover;
     min-height: 65vh;
 }
